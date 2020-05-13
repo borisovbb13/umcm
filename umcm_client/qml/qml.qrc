@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppWindow.qml</file>
+        <file>Sidebar.qml</file>
+        <file>IndicatorCard.qml</file>
+    </qresource>
+</RCC>

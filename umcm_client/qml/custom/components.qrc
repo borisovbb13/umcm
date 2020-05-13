@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CustomBaseItem.qml</file>
+        <file>CustomButton.qml</file>
+        <file>CustomCircleMask.qml</file>
+        <file>CustomDivider.qml</file>
+        <file>CustomDropdown.qml</file>
+        <file>CustomIcon.qml</file>
+        <file>CustomInk.qml</file>
+        <file>CustomLabel.qml</file>
+        <file>CustomMenuField.qml</file>
+        <file>CustomOverlayLayer.qml</file>
+        <file>CustomPopupBase.qml</file>
+        <file>CustomScrollIndicator.qml</file>
+        <file>CustomSidebar.qml</file>
+        <file>CustomStandardItem.qml</file>
+        <file>CustomView.qml</file>
+    </qresource>
+</RCC>
